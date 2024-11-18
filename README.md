@@ -1,4 +1,4 @@
-# Estudos-C# 📚
+# Estudos C# 📚
 
 Bem-vindo ao repositório **Estudos-C#**!  
 Este espaço é dedicado ao registro dos meus estudos e projetos de desenvolvimento **Back-End** utilizando a linguagem **C#**. Aqui, você encontrará exemplos práticos, exercícios, e aplicações que venho desenvolvendo ao longo da minha jornada de aprendizado.
